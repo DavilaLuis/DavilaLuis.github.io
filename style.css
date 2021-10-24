@@ -37,7 +37,7 @@
  */
 
 .product-device {
-    position: absolute;
+   /* position: absolute;*/
     top : 10%;
     right: 10%;
     bottom: 20%;
